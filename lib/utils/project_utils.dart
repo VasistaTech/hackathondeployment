@@ -56,16 +56,14 @@
     List < ProjectUtils > hobbyProjectUtils = [
 
     ProjectUtils(
-image: 'assets/projects/Job_desc_resume_matcher_match.png',
+image: 'assets/projects/git_photo_1.png',
 
-title: 'Recursive Job Matching',
+title: 'Personalised Movie Recomender',
 
-subtitle: 'Job matching platform uses technology to connect job seekers and employers.',
+subtitle: 'Personalized movie recommendation system using collaborative filtering.',
 
-fullcontent: 'A job matching platform utilizes modern technologies to connect job seekers and employers.  Integrating Streamlit for an interactive web interface and Large Language Models (LLMs) for natural language processing creates a robust and intelligent matching system.  An overview of the components and functionalities follows.',
-webLink: 'https://recursivejobmatching.streamlit.app',
-
-pypiLink: 'https://github.com/suprithvasista/R_J_M',
+fullcontent: 'This project develops a personalized movie recommendation system employing collaborative and content-based filtering.  The system analyzes user preferences, viewing history, and movie attributes to generate tailored suggestions.  Leveraging machine learning algorithms and extensive movie datasets, the project creates a seamless film discovery experience based on individual tastes.  The platform incorporates user profiles, ratings, and a feedback mechanism for continuous recommendation improvement.',
+pypiLink: 'https://github.com/suprithvasista',
 
 displayFooter: 'Available on',
   
@@ -75,15 +73,15 @@ displayFooter: 'Available on',
 
     List<ProjectUtils> workProjectUtils = [
  ProjectUtils(
-image: 'assets/projects/git_photo_1.png',
+image: 'assets/projects/Job_desc_resume_matcher_match.png',
 
-title: 'Slowly Changing  Dimensions',
+title: 'AI-Powered Resume Analyzer',
 
-subtitle: 'SCD management in data warehousing addresses temporal changes in dimension attributes.  Type 1 overwrites, Type 2 adds rows, and Type 3 adds columns to track history.',
+subtitle: 'Develop a web app using AI to analyze resumes and deliver detailed feedback.',
 
-fullcontent: 'Slowly Changing Dimensions (SCD) in data warehousing manage evolving dimension data.  SCDs track historical changes in dimensions such as customer details or product attributes.  Common SCD types include Type 0 (no changes), Type 1 (overwrite), Type 2 (full history with new rows), Type 3 (limited history with additional columns), and other variations.  Proper SCD implementation ensures accurate reporting and analytics by preserving historical context for dimensional data changes.',
+fullcontent: 'Develop a web-based application utilizing artificial intelligence to analyze resumes and provide detailed feedback to job seekers.  The application compares a users resume against specific job descriptions and offers improvement suggestions based on keywords, formatting, and skill alignment.  The AI model ranks resumes according to job relevance, aiding recruiters in identifying promising candidates.  The system supports multiple resume formats including PDF, DOCX, and plain text, providing users insights on tailoring resumes for specific job openings.',
 
-verifierLink: 'https://www.linkedin.com/in/devi-acharya-4923091a/',
+verifierLink: 'https://www.linkedin.com/in/sumanthm1/',
 
 displayFooter: 'Verified by',
   ),  
