@@ -30,7 +30,7 @@ import 'package:flutter/material.dart';
 
         child: const
 
-        Text("Created using Flutter 3.10  Credit @Suprith M",
+        Text("Created Using Flutter Deployed into Production Credit @Suprith M",
 
              style: TextStyle(fontWeight: FontWeight.w400,
 
