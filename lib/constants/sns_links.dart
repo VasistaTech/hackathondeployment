@@ -1,7 +1,7 @@
 
         class SnsLinks{
 
-          static const String github="https://github.com/suprithvasista/";
+          static const String github="https://github.com/suprithvasista";
 
           static const String linkedin="https://www.linkedin.com/in/suprithm1/";
 
