@@ -33,7 +33,7 @@ import 'package:flutter/material.dart';
 
                                         theme: ThemeData.dark(),
 
-        title: 'VasistaTech',
+        title: 'vasistatechportfolio',
 
         home: const
 
