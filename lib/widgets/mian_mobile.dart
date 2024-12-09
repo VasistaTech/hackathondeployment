@@ -20,11 +20,11 @@
 
         void downloadPDF() {
 
-        const url = 'https://github.com/VasistaTech/hackathondeployment/blob/main/public/suprith_m_resume.pdf?raw=true'; // The relative path to your PDF in the web directory
+        const url = 'https://github.com/VasistaTech/testproductiondeployment/blob/main/public/vasistatechcv.pdf?raw=true'; // The relative path to your PDF in the web directory
 
         final anchor = html.AnchorElement(href: url)
 
-        ..setAttribute('download', 'suprith_m_resume.pdf') // Name of the downloaded file
+        ..setAttribute('download', 'vasistatechcv.pdf') // Name of the downloaded file
 
             ..click();
 
@@ -86,7 +86,7 @@
 
         child: Image.asset(
 
-        "assets/IMG_2093_s.jpeg",
+        "assets/74318.png",
 
         width: screenWidth / 2,
 
@@ -102,7 +102,7 @@
 
         child: Text(
 
-        "Hi I am Suprith M AKA Data Engineer",
+        "Hi we are a tech company that provide all sort of it services",
 
         style: TextStyle(
 
